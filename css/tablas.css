@@ -1,0 +1,19 @@
+/*documento css*/
+* {margin: 0px;
+padding: 0px;}
+ 
+body {background-color: beige;}
+
+h1 {background-color: blue;
+padding: 16px 0px;
+text-align: center;
+color: antiquewhite;}
+
+.tablas {width: 50%;
+margin: 24px auto 24px auto;
+background-color: rgb(255, 255, 255);
+text-align: center;}
+.Horario {width: 50%;
+    margin: 24px auto 24px auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;}
